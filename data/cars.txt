@@ -1,0 +1,140 @@
+1
+{
+    "brand": "Toyota",
+    "year": "1998",
+    "state_number": "у552ке37",
+    "userId": "1"
+}
+2
+{
+    "brand": "Jeep",
+    "year": "2002",
+    "state_number": "к885уу37",
+    "userId": "2"
+}
+3
+{
+    "brand": "Mercedes-Benz",
+    "year": "2020",
+    "state_number": "я316фы37",
+    "userId": "3"
+}
+4
+{
+    "brand": "Лада",
+    "year": "2012",
+    "state_number": "у087дл37",
+    "userId": "4"
+}
+5
+{
+    "brand": "Porsche",
+    "year": "2015",
+    "state_number": "у555уу37",
+    "userId": "5"
+}
+6
+{
+    "brand": "Kia",
+    "year": "2018",
+    "state_number": "г215па37",
+    "userId": "6"
+}
+7
+{
+    "brand": "Лада",
+    "year": "2005",
+    "state_number": "в723ат37",
+    "userId": "7"
+}
+8
+{
+    "brand": "Toyota",
+    "year": "2021",
+    "state_number": "ш801ии37",
+    "userId": "8"
+}
+9
+{
+    "brand": "Daewoo",
+    "year": "2008",
+    "state_number": "с653гр37",
+    "userId": "9"
+}
+10
+{
+    "brand": "Chevrolet",
+    "year": "2013",
+    "state_number": "ф589ло37",
+    "userId": "10"
+}
+11
+{
+    "brand": "Jeep",
+    "year": "2008",
+    "state_number": "ц201мп37",
+    "userId": "11"
+}
+12
+{
+    "brand": "Лада",
+    "year": "2020",
+    "state_number": "м876ка37",
+    "userId": "12"
+}
+13
+{
+    "brand": "Mercedes-Benz",
+    "year": "2015",
+    "state_number": "р356гг37",
+    "userId": "13"
+}
+14
+{
+    "brand": "Daewoo",
+    "year": "2020",
+    "state_number": "л013пр37",
+    "userId": "14"
+}
+15
+{
+    "brand": "Jeep",
+    "year": "2002",
+    "state_number": "о563мм37",
+    "userId": "15"
+}
+16
+{
+    "brand": "Chevrolet",
+    "year": "2005",
+    "state_number": "ж551ит37",
+    "userId": "16"
+}
+17
+{
+    "brand": "Лада",
+    "year": "2020",
+    "state_number": "н883мт37",
+    "userId": "17"
+}
+18
+{
+    "brand": "Kia",
+    "year": "2012",
+    "state_number": "п947ро37",
+    "userId": "18"
+}
+19
+{
+    "brand": "Лада",
+    "year": "2010",
+    "state_number": "в519ри37",
+    "userId": "19"
+}
+20
+{
+    "brand": "Jeep",
+    "year": "2003",
+    "state_number": "е219ыв37",
+    "userId": "20"
+}
