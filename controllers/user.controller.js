@@ -30,6 +30,3 @@ class UserController {
 }
 
 module.exports = new UserController();
-
-// let a = new UserController();
-// a.getUsers();
