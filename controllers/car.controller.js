@@ -12,9 +12,9 @@ class CarController {
     }
 
     async getCarsByUser(req, res) {
-        const id = req.query.id
+        const id = req.params.id
         const cars = await db.query('SELECT * FROM cars where user_id = $1', [id])
-        res.json(cars.rows)
+        res.json(cars.rows[0])
     }
     async deleteCar(req, res) {
         const id = req.params.id
