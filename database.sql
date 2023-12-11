@@ -1,11 +1,3 @@
-
-create TABLE information (
-    user_id INTEGER,
-    FOREIGN KEY (user_id) REFERENCES owners (id),
-    car_id INTEGER,
-    FOREIGN KEY (car_id) REFERENCES cars (id)
-);
-
 create TABLE owners (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255),
